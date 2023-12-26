@@ -6,6 +6,9 @@
 .pnp.js
 .yarn/install-state.gz
 
+# Panda generated files
+/styled-system
+
 # testing
 /coverage
 
